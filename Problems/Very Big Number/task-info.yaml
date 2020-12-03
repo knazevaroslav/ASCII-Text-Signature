@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // declare and initialize a variable here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4386#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4386#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 19 Nov 2020 18:53:46 UTC
+record: -1
